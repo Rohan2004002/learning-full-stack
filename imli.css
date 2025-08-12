@@ -1,0 +1,32 @@
+h1 {
+    color: aqua;
+    justify-content: center;
+    display: flex;
+}
+
+.yo {
+    color: red;
+    justify-content: center;
+    display: flex;
+}
+
+.fo {
+    color: cadetblue;
+    justify-content: left;
+    display: flex;
+}
+
+.EXTERNAL {
+    color: green;
+    font-size: larger;
+}
+
+.inner {
+    color: gold;
+    font-size: larger;
+}
+
+.inline {
+    color: blue;
+    font-size: larger;
+}
